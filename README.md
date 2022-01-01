@@ -1,4 +1,4 @@
-# KRATS
+# Awesome-zkEVM
 This repo is for internal sharing on zkEVM materials
 * zkEVM by AppliedZKP  
 Specs:  https://github.com/appliedzkp/zkevm-specs  
