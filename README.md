@@ -8,3 +8,5 @@ Specs: https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf
 
 
 
+# ZK Rollup Implementation
+* zksync 1.0 (only for payment): https://github.com/matter-labs/zksync
