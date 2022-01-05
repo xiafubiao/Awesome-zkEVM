@@ -21,4 +21,3 @@ Specs: https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf
 
 * Awesome EVM: https://github.com/pirapira/awesome-ethereum-virtual-machine  
 * ETH beigepaper (a readable version of yellow paper): https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf  
-* 
