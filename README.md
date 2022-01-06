@@ -23,7 +23,10 @@ Specs: https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf
     * https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md
     * https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf
 * Awesome EVM: https://github.com/pirapira/awesome-ethereum-virtual-machine  
-* ETH beigepaper (a readable version of yellow paper): https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf  
+
+* Yellow Paper
+    * The original version: https://ethereum.github.io/yellowpaper/paper.pdf
+    * a readable version: https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf  
 
 # MISC
 * https://blog.matter-labs.io/zksync-2-0-hello-ethereum-ca48588de179
