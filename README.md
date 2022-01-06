@@ -25,7 +25,7 @@ Specs: https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf
 * Awesome EVM: https://github.com/pirapira/awesome-ethereum-virtual-machine  
 
 * Yellow Paper
-    * The original version: https://ethereum.github.io/yellowpaper/paper.pdf
+    * the original version: https://ethereum.github.io/yellowpaper/paper.pdf
     * a readable version: https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf  
 
 # MISC
