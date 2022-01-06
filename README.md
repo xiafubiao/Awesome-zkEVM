@@ -19,7 +19,9 @@ Specs: https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf
     * https://blog.trustlook.com/understand-evm-bytecode-part-2/
     * https://blog.trustlook.com/understand-evm-bytecode-part-3/
     * https://blog.trustlook.com/understand-evm-bytecode-part-4/
-
+* EVM Tools:
+    * https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md
+    * https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf
 * Awesome EVM: https://github.com/pirapira/awesome-ethereum-virtual-machine  
 * ETH beigepaper (a readable version of yellow paper): https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf  
 
