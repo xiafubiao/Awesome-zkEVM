@@ -5,7 +5,7 @@ Specs:  https://github.com/appliedzkp/zkevm-specs
 Circuits: https://github.com/appliedzkp/zkevm-circuits  
 * zkEVM design doc by Consensys  
 Specs: https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf  
-* zkEVM intro by Hermez
+* zkEVM intro by Hermez  
 Slides: https://docs.google.com/presentation/d/17AmfkaKZd4QVXeyNLLnWHMD3DbOeW8fQAbUdgJjw3eQ/edit#slide=id.ge593c85d0e_0_223  
 A talk given by Jordi Baylina in EthCC 4: https://www.youtube.com/watch?v=17d5DG6L2nw  
 
